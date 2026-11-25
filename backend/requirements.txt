@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+feedparser
+requests
+langgraph
+langchain
+langchain-groq
+pydantic
+chromadb
+sentence-transformers
+email-validator
+apscheduler
+pyjwt
+pwdlib[argon2]
+python-multipart
